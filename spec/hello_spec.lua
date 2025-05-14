@@ -1,0 +1,16 @@
+-- spec/mytool_spec.lua
+-- local mytool = require("mytool") -- Require the module (src/mytool/init.lua)
+
+-- describe("mytool.greet", function()
+-- 	it("greets the given name", function()
+-- 		assert.is_function(mytool.greet)
+-- 		-- Test that greeting a specific name works
+-- 		assert.equals("Hello, Drizzlin!", mytool.greet("Drizzlin"))
+-- 	end)
+--
+-- 	it("greets with 'World' when name is not provided or nil", function()
+-- 		-- If called with nil, or empty string handling if applicable
+-- 		assert.equals("Hello, World!", mytool.greet(nil))
+-- 		assert.equals("Hello, World!", mytool.greet(""))
+-- 	end)
+-- end)
